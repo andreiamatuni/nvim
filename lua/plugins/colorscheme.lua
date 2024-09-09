@@ -10,7 +10,7 @@ return {
         options = {
           styles = {
             comments = "italic",
-            keywords = "italic,bold",
+            keywords = "italic",
             -- types = "bold",
           },
         },
@@ -32,6 +32,16 @@ return {
   { "ntk148v/komau.vim" },
   { "zenbones-theme/zenbones.nvim" },
   { "crispybaccoon/aki" },
+  { "bgwdotdev/gleam-theme-nvim" },
+  { "rose-pine/neovim", name = "rose-pine" },
+  { "p00f/alabaster.nvim" },
+  { "ayu-theme/ayu-vim" },
+  { "kihachi2000/yash.nvim" },
+  { "gmr458/cold.nvim" },
+  { "daschw/leaf.nvim" },
+  { "shelmangroup/dieter.nvim" },
+  { "Mofiqul/adwaita.nvim" },
+  { "gaelph/nano.nvim" },
 
   -- Configure LazyVim to load gruvbox
   {
